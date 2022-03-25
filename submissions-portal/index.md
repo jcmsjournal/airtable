@@ -49,5 +49,7 @@ The Managing Editor downloads the anonymized manuscript, and creates a record in
 Once they do this, they should change the Status of the record from "Ready for review" to "Sent into review". This will remove the piece
 
 ### Other considerations
-Each record has the possibility of comments. Any team member can be tagged if something requires their attention. That said, be careful tagging the Editor(s) or Associate Editors in the Submissions Portal, since the submissions are *not* blinded in the Submission Portal.
+* Each record has the possibility of comments. Any team member can be tagged if something requires their attention. That said, be careful tagging the Editor(s) or Associate Editors in the Submissions Portal, since the submissions are *not* blinded in the Submission Portal.
+
+* Any records in the "Desk review" table with their status set to "Forward to review" whose status was last changed more than a month ago will automatically be un-assigned from any users and have their status changed to "Archived".
 
