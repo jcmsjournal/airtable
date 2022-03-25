@@ -7,10 +7,10 @@ The author submission form is here: https://airtable.com/shr9RXgxBFJoaD6O1. It a
 
 ### Steps
 
-#### 1. The author navigates to the form
+#### 1. The Author navigates to the form
 The author will navigate to the form from the JCMSJournal.org website. (https://jcmsjournal.org/submit will take users to the submissions page on JCMSJournal.org.) They will fill out the form.
 
-#### 2. The author submits the form
+#### 2. The Author submits the form
 When the author clicks submit. They see a confirmation screen. Four additional things happen:
 
 1. The information they've submitted is captured into the "Submissions" table in the Submissions Portal base.
@@ -37,10 +37,17 @@ There are then "Notes for author (when rejected)",  "Anonymized manuscript", and
 
 If the Assistant Editor changes the status to "Forward to peer review" without uploading an anonymized manuscript, it will show up in the "Awaiting anonymization" view. 
 
-Weekly reminder emails are sent to the Assistant Editors detailing any submissions that are "Awaiting desk review" or "Awaiting anonymization".
+Weekly reminder emails are sent to the Assistant Editors detailing any submissions that are "Awaiting desk review" or "Awaiting anonymization". (TODO: add weekly reminder emails; seek guidance from Assistant Editors as to when they wish to receive this email.)
 
-#### 4. A piece enters peer review
+#### 4. The Managing Editor sends the piece into peer review
 Once a piece is "Forward[ed] to peer review" and has a file uploaded to its "Anonymized manuscript" field, the submission is added to the "Pre-review" table. The Managing Editor receives an email notifying them that a piece is ready to go into peer review.
 
+The Managing Editor will get a weekly report email with any submissions that are ready for review.
+
 The Managing Editor downloads the anonymized manuscript, and creates a record in the Readers and Reports app. This will require manual re-entry of: article title, abstract, keywords, and anonymized manuscript. That workflow is detailed in [the Readers and Reports documentation](../readers-and-reports/index.md).
+
+Once they do this, they should change the Status of the record from "Ready for review" to "Sent into review". This will remove the piece
+
+### Other considerations
+Each record has the possibility of comments. Any team member can be tagged if something requires their attention. That said, be careful tagging the Editor(s) or Associate Editors in the Submissions Portal, since the submissions are *not* blinded in the Submission Portal.
 
