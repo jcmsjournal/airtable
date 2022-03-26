@@ -44,9 +44,7 @@ Once a piece is "Forward[ed] to peer review" and has a file uploaded to its "Ano
 
 The Managing Editor will get a weekly report email with any submissions that are ready for review.
 
-The Managing Editor downloads the anonymized manuscript, and creates a record in the Readers and Reports app. This will require manual re-entry of: article title, abstract, keywords, and anonymized manuscript. That workflow is detailed in [the Readers and Reports documentation](../readers-and-reports/index.md).
-
-Once they do this, they should change the Status of the record from "Ready for review" to "Sent into review". This will remove the piece
+To actually send the submission into the review queue, the Managing Editor changes the status from "Ready for review" to "Sent into review." The article will automatically be forwarded into the Readers and Reports base/app.
 
 ### Other considerations
 * Each record has the possibility of comments. Any team member can be tagged if something requires their attention. That said, be careful tagging the Editor(s) or Associate Editors in the Submissions Portal, since the submissions are *not* blinded in the Submission Portal.
