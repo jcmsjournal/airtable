@@ -9,7 +9,7 @@ Punchlist for AirTable:
 	[ ] to Assitant Editors for pieces awaiting manuscript anonymization
 	[ ] to Managing Editor for pieces ready to go into review
 	[ ] at various points in Readers & Reports
-[ ]	Finalize author correspondence emails
+[ ] Finalize author correspondence emails
 	[ ] Confirmation
 	[ ] Desk rejection
 [ ] Finalize reviewer correspondence emails
@@ -29,4 +29,5 @@ Punchlist for AirTable:
 			- Rejected
 			- In revision
 			- Accepted
-		
+[ ] Pull in current reviewer information
+[ ] Decide about JCMS Bot reminder emails in Post-decision Pipeline
