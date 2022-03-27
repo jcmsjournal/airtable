@@ -31,3 +31,5 @@ Punchlist for AirTable:
 			- Accepted
 [ ] Pull in current reviewer information
 [ ] Decide about JCMS Bot reminder emails in Post-decision Pipeline
+[ ] Decide about Statuses in Post-decision Pipeline
+[ ] Pull current queue into Post-decision Pipeline
