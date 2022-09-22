@@ -50,6 +50,11 @@ All JCMS Bot emails all have a reply-to of editors@jcmsjournal.org. If Reviewers
 ### Step 6: Rendering a decision
 Once an Article receives two Reviews, the Editor receives a notification that the Article is ready for a decision, with a link to the Article record. The Reviews can be viewed by navigating to them through the record. You will be able to navigate to them through the Review Requests field, which will include all Review Requests made for that article, they will include links to the submitted Reviews where present. The Editor now has enough information to render a decision, or strike a decision committee.
 
+## Revisions
+A piece that's given a decision of revise & resubmit
+
+### Step 1: 
+
 ### And beyond...?
 
 And this is where I have workflow questions, which we don't really have answers for yet. The full Reviews are very easily made available for a review committee, and the blinded review for author view is a bit less easy. The Readers & Reports base (by design) does not have any identifying author information. Decision in hand, the time has come to communicate with the author.
