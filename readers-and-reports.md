@@ -50,8 +50,11 @@ All JCMS Bot emails all have a reply-to of editors@jcmsjournal.org. If Reviewers
 ### Step 6: Rendering a decision
 Once an Article receives two Reviews, the Editor receives a notification that the Article is ready for a decision, with a link to the Article record. The Reviews can be viewed by navigating to them through the record. You will be able to navigate to them through the Review Requests field, which will include all Review Requests made for that article, they will include links to the submitted Reviews where present. The Editor now has enough information to render a decision, or strike a decision committee.
 
+### Step 7: Moving into the pipeline
+Once a decision is rendered, if the decision of "Accept" or "Revise and Resubmit," the piece is moved into the "Post-submission pipeline." You can find documentation on that [here](./post-decision-pipeline.md).
+
 ## Revisions
-A piece that's given a decision of Revise & Resubmit
+A piece that's given a decision of Revise & Resubmit more or less stays in the 
 
 ### Step 1: 
 
