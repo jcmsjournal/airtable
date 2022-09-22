@@ -10,5 +10,9 @@ Questions for R&R procedure meeting
 
 TODO:
 [x] Write email template for soliciting a review of a revision
-[ ] Add form for "revision summary" in resubmission form
-[ ] Add field for intial reports to article records
+[x] Add form for "revision summary" in resubmission form
+[x] Add field for intial reports to article records
+[ ] Add R&R soliciation email to automations
+[ ] Investigate what happens when you add an empty attachment to an email
+	- [ ] If you don't get a failure, update "send manuscript" email automation
+	- [ ] If you do, add a new R&R "send manuscript" email automation
