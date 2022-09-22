@@ -51,7 +51,7 @@ All JCMS Bot emails all have a reply-to of editors@jcmsjournal.org. If Reviewers
 Once an Article receives two Reviews, the Editor receives a notification that the Article is ready for a decision, with a link to the Article record. The Reviews can be viewed by navigating to them through the record. You will be able to navigate to them through the Review Requests field, which will include all Review Requests made for that article, they will include links to the submitted Reviews where present. The Editor now has enough information to render a decision, or strike a decision committee.
 
 ## Revisions
-A piece that's given a decision of revise & resubmit
+A piece that's given a decision of Revise & Resubmit
 
 ### Step 1: 
 
