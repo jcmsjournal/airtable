@@ -75,13 +75,3 @@ In the "Resubmission of?" field in the card view of the submission, the Managing
 
 ### Step 3: The Associate Editor selects reviewers
 Everything here proceeds apace according to Step 2, above---except the Associate Editor in charge of revisions selects the readers.
-
-### And beyond...?
-
-And this is where I have workflow questions, which we don't really have answers for yet. The full Reviews are very easily made available for a review committee, and the blinded review for author view is a bit less easy. The Readers & Reports base (by design) does not have any identifying author information. Decision in hand, the time has come to communicate with the author.
-
-I believe, likely, the best way to do this is high-touch and low-automation. The Managing Editor prepares the Reviews for the Author by downloading the Reader Report rubrics for each of the readers, as well as the attachments, and anonymizes them. They will then send the Editor an email with the Reports and author contact info. The Editor will then write an email to the Author informing them of the decision.
-
-The Submissions Portal Submissions table has a "decision" field, which the Managing Editor should update when appropriate: "Desk reject," "Reject," "Revise," and "Accept."
-
-The Author will send the revised manuscripts to the Managing Editor, who will upload revised artilces into the Readers and Reports app.
