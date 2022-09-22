@@ -51,12 +51,30 @@ All JCMS Bot emails all have a reply-to of editors@jcmsjournal.org. If Reviewers
 Once an Article receives two Reviews, the Editor receives a notification that the Article is ready for a decision, with a link to the Article record. The Reviews can be viewed by navigating to them through the record. You will be able to navigate to them through the Review Requests field, which will include all Review Requests made for that article, they will include links to the submitted Reviews where present. The Editor now has enough information to render a decision, or strike a decision committee.
 
 ### Step 7: Moving into the pipeline
-Once a decision is rendered, if the decision of "Accept" or "Revise and Resubmit," the piece is moved into the "Post-submission pipeline." You can find documentation on that [here](./post-decision-pipeline.md).
+Once a decision is rendered, if the decision of "Accept" or "Revise and Resubmit," the piece is moved into the "Post-submission pipeline." You can find documentation on that [here](./post-decision-pipeline.md). This is a much less automated tracking base for pieces after a decision has been rendered.
+
+### Step 8: Communicating with the author
+Decisions must be communicated with the author manually. The (Managing) Editor will prepare an anonymized version of reader reports to send to the author. Email templates for decisions are held and updated by the Managing Editor.
+
+The version of the reader reports sent to the author initially include only the written reports by the readers, and not the scored rubric. We have decided to furnish the scored rubrics only upon request.
 
 ## Revisions
-A piece that's given a decision of Revise & Resubmit more or less stays in the 
+A piece that's given a decision of Revise & Resubmit more or less stays in the pipeline. An R&R decision for the first submission will be forwarded to the post-submission pipeline. The Associate Editor in charge of resubmissions (at current, Jeff Menne) will send the decision to the author and correspond with the author about plans for revision.
 
-### Step 1: 
+This correspondence will also include a link to the JCMS resubmission form.
+
+### Step 1: The author submits a revised article
+There is a separate base, similar to the Submissions Portal, to accept revisions. It is substantially the same, except it does not have the machinery for desk review.
+
+When the author submits a revision, the Managing Editor receives a notification and an email alerting them to the submitted revision. The Managing Editor then anonymizes the manuscript and uploads the anonymized manuscript into the Airtable record for the resubmission in the Resubmission Portal base.
+
+### Step 2: The article enters the Readers and Reports base
+As soon as the Managing Editor uploads the anonymized manuscript, the article is immediately forwarded into the Readers and Reports base, but flagged as a revision. Once this happens, the Managing Editor must find the record of the original submission.
+
+In the "Resubmission of?" field in the card view of the submission, the Managing Editor can click "Add record" and search by title. Once that happens, the article is ready to select readers. In the comments, the Managing Editor ought to note the original readers of the article, and whether they agreed or declined to be contacted for a revision.
+
+### Step 3: The Associate Editor selects reviewers
+Everything here proceeds apace according to Step 2, above---except the Associate Editor in charge of revisions selects the readers.
 
 ### And beyond...?
 
