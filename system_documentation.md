@@ -21,3 +21,7 @@ We can separate the kinds of actions taken into a few different categories:
 * Creating records in other tables
 * Archiving completed or otherwise old records
 
+## Bases
+
+### Submissions Portal
+The Submissions Portal is for new blind submissions.
